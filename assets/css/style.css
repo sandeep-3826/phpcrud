@@ -1,0 +1,39 @@
+.jumbotron {
+    background: orangered;
+    color: #fff;
+}
+
+h1 {
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h2 {
+    font-size: 25px;
+    font-weight: 700;
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+label {
+    font-size: 16px;
+    color: red;
+}
+
+table th{
+    text-align: center;
+    color: blue;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+table td {
+    text-align: center;
+    color: black;
+    font-size: 16px;
+    font-weight: 700;
+}
